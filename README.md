@@ -14,19 +14,19 @@ This report aims to provide insights into key loan-related metrics and their cha
 
 5. Average Debt-to-Income Ratio (DTI)
 
-Good Loan KPIs:
+**Good Loan KPIs:**
 1.	Good Loan Application Percentage
 2.	Good Loan Applications
 3.	Good Loan Funded Amount
 4.	Good Loan Total Received Amount 
 
-Bad Loan KPIs:
+**Bad Loan KPIs:**
 1.	Bad Loan Application Percentage
 2.	Bad Loan Applications
 3.	Bad Loan Funded Amount
 4.	Bad Loan Total Received Amount
 
- **  Dashboard **
+**Dashboard using Tableau**
 
 ![Screenshot_20240216_194212_Doc Scanner](https://github.com/srishtikatiyar3/Tableau-Project/assets/160014323/e1d81040-7620-49a6-ade6-97e796830974)
 
